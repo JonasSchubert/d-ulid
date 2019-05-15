@@ -1,0 +1,9 @@
+/.dart_tool
+/.vscode
+/android
+/build
+/coverage
+/ios
+.packages
+local.properties
+pubspec.lock
