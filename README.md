@@ -21,10 +21,6 @@ ULID (Universally Unique Lexicographically Sortable Identifier) generator and pa
 
 Refer the [ULID spec](https://github.com/ulid/spec) for a more detailed ULID specification.
 
-## Installation
-
-TBD
-
 ## Usage
 
 ULID generation examples:
@@ -42,10 +38,10 @@ ULID parsing examples:
 ```dart
 import "package:ulid/ulid.dart";
 
-val ulidString = ""
+var ulidString = "00005cdc-5177-0beb-c121-800c33c35260"
 
-val isValid = Ulid.isValid(ulidString);
-val milliseconds = new Ulid.fromString(ulidString)toMilliseconds();
+var isValid = Ulid.isValid(ulidString);
+var milliseconds = new Ulid.fromString(ulidString)toMilliseconds();
 ```
 
 ## Prior Projects
