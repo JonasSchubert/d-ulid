@@ -11,7 +11,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/GuepardoApps/d-ulid/releases/tag/0.1.0)
 [![Build](https://img.shields.io/badge/build-success-green.svg)](lib)
-[![CodeCoverage](https://img.shields.io/badge/codeCoverage-100-green.svg)](test)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-green.svg)](test)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Paypal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/GuepardoApps)
@@ -48,6 +48,12 @@ var milliseconds = new Ulid.fromString(ulidString)toMilliseconds();
 
 - [agilord/ulid](https://github.com/agilord/ulid)
 
+## Contributors
+
+| [<img alt="JonasSchubert" src="https://avatars0.githubusercontent.com/u/21952813?v=4&s=117" width="117"/>](https://github.com/JonasSchubert) |
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
+| [Jonas Schubert](https://github.com/JonasSchubert) |
+
 ## License
 
 d-ulid is distributed under the MIT license. [See LICENSE](LICENSE.md) for details.
@@ -55,7 +61,7 @@ d-ulid is distributed under the MIT license. [See LICENSE](LICENSE.md) for detai
 ```
 MIT License
 
-Copyright (c) 2019 GuepardoApps (Jonas Schubert)
+Copyright (c) 2019 Jonas Schubert
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
