@@ -7,15 +7,26 @@
 	<br>
 </h1>
 
-# Dart Ulid
+<p align="center"><h1 style="text-align: center;">Dart Ulid</h1></p>
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/GuepardoApps/d-ulid/releases/tag/0.1.0)
-[![Build](https://img.shields.io/badge/build-success-green.svg)](lib)
-[![Coverage](https://img.shields.io/badge/coverage-100%25-green.svg)](test)
+<p align="center">
+  <a href="./releases/tag/0.1.0"><img src="https://img.shields.io/badge/version-0.1.0-blue.svg"/></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
+  <a href="https://github.com/JonasSchubert/d-ulid/"><img src="https://img.shields.io/github/stars/JonasSchubert/d-ulid.svg"/></a>
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Paypal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/GuepardoApps)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<p align="center"><h6 style="text-align: center;">Unit test coverage</h6></p>
+
+<p align="center">
+  <a href="./test"><img src="https://img.shields.io/badge/coverage-100%25-green.svg"/></a>
+</p>
+
+<p align="center"><h6 style="text-align: center;">Support me</h6></p>
+
+<p align="center">
+  <a href="https://www.paypal.me/GuepardoApps"><img src="https://img.shields.io/badge/paypal-support-blue.svg"/></a>
+</p>
 
 ULID (Universally Unique Lexicographically Sortable Identifier) generator and parser for Dart.
 
