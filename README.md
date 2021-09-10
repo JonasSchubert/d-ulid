@@ -10,7 +10,7 @@
 <p align="center"><h1 style="text-align: center;">Dart Ulid</h1></p>
 
 <p align="center">
-  <a href="./releases/tag/0.1.0"><img src="https://img.shields.io/badge/version-0.1.0-blue.svg"/></a>
+  <a href="./releases/tag/0.2.0"><img src="https://img.shields.io/badge/version-0.2.0-blue.svg"/></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
   <a href="https://github.com/JonasSchubert/d-ulid/"><img src="https://img.shields.io/github/stars/JonasSchubert/d-ulid.svg"/></a>

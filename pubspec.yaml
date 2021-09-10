@@ -1,6 +1,6 @@
 name: ulid
 description: ULID (Universally Unique Lexicographically Sortable Identifier) generator and parser for Dart.
-version: 0.1.0
+version: 0.2.0
 homepage: https://github.com/JonasSchubert/d-ulid
 
 environment:
